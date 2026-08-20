@@ -1,4 +1,4 @@
-# Apex Portfolio - [Student Name]
+# Apex Portfolio - Connor Galey
 
 This repository contains my student portfolio for the **Apex [Creative Computing / Cybersecurity] Pathway**. The portfolio features artifacts that demonstrate my proficiency with the technical and professional skills I built in the program.
 
