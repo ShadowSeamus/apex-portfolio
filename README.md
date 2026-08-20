@@ -1,6 +1,6 @@
 # Apex Portfolio - Connor Galey
 
-This repository contains my student portfolio for the **Apex [Creative Computing / Cybersecurity] Pathway**. The portfolio features artifacts that demonstrate my proficiency with the technical and professional skills I built in the program.
+This repository contains my student portfolio for the **Apex Cybersecurity Pathway**. The portfolio features artifacts that demonstrate my proficiency with the technical and professional skills I built in the program.
 
 ## Portfolio
 
@@ -8,7 +8,7 @@ This repository contains my student portfolio for the **Apex [Creative Computing
 
 ## About Me
 
-I am a student at Apex in the Boulder Valley School District, and I will graduate in [grad year]. After high school, I plan to [plans]. I am interested in [intersests]
+I am a student at Apex in the Boulder Valley School District, and I will graduate in [grad year]. After high school, I plan to enter the workforce. I am interested in [cybersecurity and software development]
 
 ## Portfolio Contents
 
