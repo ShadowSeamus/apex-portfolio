@@ -10,7 +10,7 @@ title: Resume
 [GitHub profile link]  
 [Portfolio and/or LinkedIn link]
 
-[Download a PDF version](assets/documents/firstname-lastname-resume.pdf)
+[Download a PDF version](assets/documents/connor-galey-resume.pdf)
 
 ## Professional Summary
 
@@ -20,18 +20,15 @@ title: Resume
 
 ### Programming and Development
 
-- **Languages:** [Python, C, C++]
-- **Development tools:** [GitHub, Git, Visual Studio Code, Unreal Engine]
-- **Platforms:** [Linux, Windows, Arduino-compatible microcontrollers]
+- **Languages:** [C++]
+- **Development tools:** [GitHub, Visual Studio Code,]
+- **Platforms:** [Linux, Windows]
 
 ### Cybersecurity and Networking
 
-- **Networking:** [IPv4 addressing, subnetting, switching, routing, VLANs]
-- **Security:** [Access control, system hardening, logging, vulnerability identification]
-- **Tools:** [Wireshark, Packet Tracer, Linux command line, virtualization platform]
-
-### Language Skills
-- World language and proficiency 
+- **Networking:** []
+- **Security:** []
+- **Tools:** [virtualization platform]
 
 > Delete categories that do not apply. Add specific skills only when you can explain or demonstrate them.
 
