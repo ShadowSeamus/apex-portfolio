@@ -8,7 +8,7 @@ This repository contains my student portfolio for the **Apex Cybersecurity Pathw
 
 ## About Me
 
-I am a student at Apex in the Boulder Valley School District, and I will graduate in [grad year]. After high school, I plan to enter the workforce. I am interested in [cybersecurity and software development]
+I am a student at Apex in the Boulder Valley School District, and I will graduate in 2027. After high school, I plan to enter the workforce. I am interested in cybersecurity and software development
 
 ## Portfolio Contents
 
@@ -17,11 +17,6 @@ I am a student at Apex in the Boulder Valley School District, and I will graduat
 - **Artifacts:** Selected evidence of my technical and professional learning
 
 ## Featured Skills
-
-- [Skill]
-- [Skill]
-- [Skill]
-- [Skill]
 
 ## Privacy and Safety
 
@@ -32,11 +27,10 @@ This repository does not include:
 - Passwords, private keys, or other secrets
 - School or district information classified as private, internal, or restricted
 - Sensitive network configurations
-- Personally identifiable information
 - Instructor feedback
 
 ## Contact
 
-- **GitHub:** [@USERNAME](https://github.com/USERNAME)
+- **GitHub:** [@shadowseamus](https://github.com/ShadowSeamus)
 - **LinkedIn:** [Optional link]
-- **Email:** [Optional school-approved or professional email]
+- **Email:** [cgaley55@gmail.com]
