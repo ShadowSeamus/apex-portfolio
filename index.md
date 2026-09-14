@@ -3,7 +3,7 @@ layout: default
 title: Home
 ---
 
-# [Connor Galey (CJ)]
+# Connor Galey (CJ)
 
 ## Apex Cybersecurity Portfolio
 
@@ -19,22 +19,21 @@ I joined the Apex **Cybersecurity Pathway** because **I wanted to learn more abo
 
 Through this program, I am developing experience with:
 
-- [Linux]
-- [Red team blue team]
-- [Networking]
-- [Information assurance]
-- [Working in a job-like environment]
-- [Skill, technology, or practice]
+- Linux
+- Red team blue team
+- Networking
+- Information assurance
+- Working in a job-like environment
 
 My current goal is to **learn enough about cybersecurity to protect myself online**.
 
 ## Technical Interests
 
-### [AI]
+### AI
 
 I find it fun to play around with locally hosted ai and OS level ai agents.
 
-### [OSINT]
+### OSINT
 
 I find it cool how you can have a limited amount of information and be able to eventually trace it back to a person/company/organization.
 
