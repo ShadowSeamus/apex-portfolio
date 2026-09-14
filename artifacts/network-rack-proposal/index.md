@@ -5,7 +5,7 @@ title: CS Network Rack Layout Proposal
 
 # CS Network Rack Layout Proposal
 
-<p class="artifact-meta">Image | August 2026</p>
+<p class="artifact-meta">Images | August 2026</p>
 
 ## Summary
 
@@ -22,10 +22,10 @@ Original network rack layout proposal
 
 [View the full artifact](./Network_Rack_Proposal_Template.drawio.png)
 
-Second version of the network layout proposal
-![Description of artifact](Paste-here)
+Revised version of the network layout proposal
+![Description of artifact](./Network_Rack_Proposal_Revised.drawio.png)
 
-[View the full artifact](paste-here)
+[View the full artifact](./Network_Rack_Proposal_Revised.drawio.png)
 
 
 ## Skills Demonstrated
