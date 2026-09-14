@@ -17,9 +17,9 @@ title: CS Three Lens Field Guide
 
 ## The Artifact
 
-![Description of artifact](three-lens-field-guide-image.png)
+![Description of artifact](./three-lens-field-guide-image.png)
 
-[View the full artifact](three-lens-field-guide-image.png)
+[View the full artifact](./three-lens-field-guide-image.png)
 
 
 ## Skills Demonstrated
