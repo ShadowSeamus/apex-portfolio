@@ -74,30 +74,30 @@ My peers and I worked together to set up our workstations and our server rack.
 <span class="skill-tag">Collaboration</span>
 <span class="skill-tag">Responsibility & reliability</span>
 
-[View Artifact](artifacts/workstation/)
+[View Artifact](apex-portfolio\artifacts\workstation\index.md)
 
 
 ---
 
-## [Artifact Name]
-<p class="artifact-meta">[Type of Artifact] | [Month Year]</p>
+## CS Three Lens Field Guide
+<p class="artifact-meta">Images | September 2026</p>
 
-[Write a short 2–3 sentence description of the artifact. Explain what you created, investigated, designed, configured, or solved.]
+My Peers and I were tasked with making pamphlets explaining the three lenses.
 
 **Skills demonstrated:**
 
-<span class="skill-tag">[Skill]</span>
-<span class="skill-tag">[Skill]</span>
+<span class="skill-tag">Graphics Design</span>
+<span class="skill-tag">Researching</span>
 
-[View Artifact](artifacts/ARTIFACT-FOLDER/)
+[View Artifact](apex-portfolio\artifacts\three-lens-field-guide\index.md)
 
 
 ---
 
-## [Artifact Name]
-<p class="artifact-meta">[Type of Artifact] | [Month Year]</p>
+## CS Network Rack Layout Proposal
+<p class="artifact-meta">Images | September 2026</p>
 
-[Write a short 2–3 sentence description of the artifact. Explain what you created, investigated, designed, configured, or solved.]
+We were tasked with making a diagram that proposed a potential network rack layout.
 
 **Skills demonstrated:**
 
