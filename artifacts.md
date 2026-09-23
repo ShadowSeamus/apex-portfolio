@@ -74,7 +74,7 @@ My peers and I worked together to set up our workstations and our server rack.
 <span class="skill-tag">Collaboration</span>
 <span class="skill-tag">Responsibility & reliability</span>
 
-[View Artifact](/artifacts/workstation/index.md)
+[View Artifact](./artifacts/workstation/index.md)
 
 
 ---
@@ -89,7 +89,7 @@ My Peers and I were tasked with making pamphlets explaining the three lenses.
 <span class="skill-tag">Graphics Design</span>
 <span class="skill-tag">Researching</span>
 
-[View Artifact](/artifacts/three-lens-field-guide/index.md)
+[View Artifact](./artifacts/three-lens-field-guide/index.md)
 
 
 ---
@@ -104,7 +104,7 @@ We were tasked with making a diagram that proposed a potential network rack layo
 <span class="skill-tag">[Skill]</span>
 <span class="skill-tag">[Skill]</span>
 
-[View Artifact](/artifacts/network-rack-proposal/index.md)
+[View Artifact](./artifacts/network-rack-proposal/index.md)
 
 ---
 
