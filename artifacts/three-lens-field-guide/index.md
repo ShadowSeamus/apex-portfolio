@@ -10,7 +10,8 @@ title: CS Three Lens Field Guide
 ## Summary
 
 We were instructed by our teacher to make a pamphlet that explains the three lenses, Networking, Security, and Information Assurance.
-**Project:** CS Lab and Rack Setup 
+
+**Project:** CS Lab and Rack Setup
 
 **My role:** I worked on my own on LucidChart to make a three lenses field guide.
 
