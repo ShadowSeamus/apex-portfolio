@@ -101,8 +101,8 @@ We were tasked with making a diagram that proposed a potential network rack layo
 
 **Skills demonstrated:**
 
-<span class="skill-tag">[Skill]</span>
-<span class="skill-tag">[Skill]</span>
+<span class="skill-tag">Researching</span>
+<span class="skill-tag">Creating and Optimizing Configurations</span>
 
 [View Artifact](./artifacts/network-rack-proposal/index.md)
 
