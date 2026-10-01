@@ -108,6 +108,34 @@ We were tasked with making a diagram that proposed a potential network rack layo
 
 ---
 
+## CS Risk Mitigation Brief
+<p class="artifact-meta">PDF Document | October 2026</p>
+
+I created a risk mitigation brief using information on 3 companies and the risk they faced and how they mitigated along with my own feedback.
+
+**Skills demonstrated:**
+
+<span class="skill-tag">[Analytical Thinking]</span>
+<span class="skill-tag">[Professional Tonality]</span>
+
+[View Artifact](./artifacts/risk-mitigation-brief/index.md)
+
+---
+
+## [Artifact Name]
+<p class="artifact-meta">[Type of Artifact] | [Month Year]</p>
+
+[Write a short 2–3 sentence description of the artifact. Explain what you created, investigated, designed, configured, or solved.]
+
+**Skills demonstrated:**
+
+<span class="skill-tag">[Skill]</span>
+<span class="skill-tag">[Skill]</span>
+
+[View Artifact](artifact/folder/)
+
+---
+
 ## [Artifact Name]
 <p class="artifact-meta">[Type of Artifact] | [Month Year]</p>
 
