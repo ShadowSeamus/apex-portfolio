@@ -17,7 +17,7 @@ We were given risk mitigation lab document which gave us a short rundown on risk
 
 ## The Artifact
 
-[this is a pdf of the risk mitigation document I wrote for the three companies I chose.]
+this is a pdf of the risk mitigation document I wrote for the three companies I chose.
 ![Description of artifact](./risk-mitigation-brief.pdf)
 
 [View the full artifact](./risk-mitigation-brief.pdf)

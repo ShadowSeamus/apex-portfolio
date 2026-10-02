@@ -17,22 +17,22 @@ We were assigned groups which undertook different roles in setting up the workst
 
 ## The Artifact
 
-[This is the top view of one of the workstations I worked on.]
+This is the top view of one of the workstations I worked on.
 ![Description of artifact](./IMG_8083.JPG)
 
 [View the full artifact](./IMG_8083.JPG)
 
-[This is the bottom view of the same workstation as above.]
+This is the bottom view of the same workstation as above.
 ![Description of artifact](./IMG_8084.JPG)
 
 [View the full artifact](./IMG_8084.JPG)
 
-[This photo shows Nyx (on the right) and Iggy (on the left) working on assembling the server rack.]
+This photo shows Nyx (on the right) and Iggy (on the left) working on assembling the server rack.
 ![Description of artifact](./rack_1.jpg)
 
 [View the full artifact](./rack_1.jpg)
 
-[This photo shows Jasiahs (on the right) and Nate (on the left) working on assembling the server rack.]
+This photo shows Jasiahs (on the right) and Nate (on the left) working on assembling the server rack.
 ![Description of artifact](./rack_2.jpg)
 
 [View the full artifact](./rack_2.jpg)
@@ -42,7 +42,7 @@ We were assigned groups which undertook different roles in setting up the workst
 
 [View the full artifact](./rack_3.jpg)
 
-[This last photo shows all of us around the completed server rack.]
+This last photo shows all of us around the completed server rack.
 ![Description of artifact](./rack_4.jpg)
 
 [View the full artifact](./rack_4.jpg)
