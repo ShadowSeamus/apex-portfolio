@@ -18,7 +18,9 @@ We were given risk mitigation lab document which gave us a short rundown on risk
 ## The Artifact
 
 this is a pdf of the risk mitigation document I wrote for the three companies I chose.
-![Description of artifact](./risk-mitigation-brief.pdf)
+<object data="./risk-mitigation-brief.pdf" type="application/pdf" width="100%" height="600px">
+    <p>Your browser does not support PDFs. <a href="./risk-mitigation-brief.pdf">Download the PDF instead</a>.</p>
+</object>
 
 [View the full artifact](./risk-mitigation-brief.pdf)
 
