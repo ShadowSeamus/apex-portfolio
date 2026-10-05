@@ -28,7 +28,7 @@ this is a pdf of the risk mitigation document I wrote for the three companies I 
 ## Skills Demonstrated
 
 <span class="skill-tag">Analytical Thinking</span>
-<span class="skill-tag">Professional tonality</span>
+<span class="skill-tag">Professional Tonality</span>
 
 
 ## What I Learned
